@@ -1,0 +1,1 @@
+/Applications/Postgres.app/Contents/Versions/9.6/bin/postgres "-D" "/Users/dannytsoi/Documents/dawa/dawaCode/dawa-prod-alpha/dawa_alpha/postgres" "-p" "5431"

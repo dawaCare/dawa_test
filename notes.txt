@@ -1,0 +1,22 @@
+To Dos:
+- Need fields for models
+  - Pending
+- Need to know the fields required for admin
+  - Pending
+- Need to implement security settings
+- Database migration from sqlite3 to postgres
+- push to github
+- deploy to Heroku
+
+July 2
+  - Models.py for alpha updated from test
+  - Settings.py updated from test
+  - runtime updated
+  - wsgi updated
+  - admin.py updated
+  - dashboard views updated
+  - urls updated
+  - staticfiles collected
+  - import-export Added
+  - users app Added
+  
